@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SquadSync</title>
+    <link>https://mimevbore17.github.io/hugo-mock-landing-page/</link>
+    <description>Recent content on SquadSync</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Michael Imevbore</copyright>
+    <lastBuildDate>Sun, 16 Feb 2025 23:58:44 -0500</lastBuildDate>
+    <atom:link href="https://mimevbore17.github.io/hugo-mock-landing-page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bootstrap 5.2.0 beta</title>
+      <link>https://mimevbore17.github.io/hugo-mock-landing-page/post/bootstrap-5-2-0-beta/</link>
+      <pubDate>Fri, 13 May 2022 13:00:44 +0100</pubDate>
+      <guid>https://mimevbore17.github.io/hugo-mock-landing-page/post/bootstrap-5-2-0-beta/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;bootstrap-5-2-0-beta.png&#34; alt=&#34;Bootstrap 5 2 0 Beta&#34;&gt;&#xA;{ .img-fluid }&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;It’s the biggest release since v5 itself—&lt;strong&gt;Bootstrap v5.2.0-beta1 is here!&lt;/strong&gt; This release features redesigned docs, CSS variables for all our components, responsive offcanvas, new helpers and utilities, refined buttons and inputs, and lots of improvements under the hood.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Given the size of the update and time since our last release, we’re doing something different and shipping it as a beta first. &lt;a href=&#34;https://blog.getbootstrap.com/2022/05/13/bootstrap-5-2-0-beta/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Keep reading for details&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://mimevbore17.github.io/hugo-mock-landing-page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mimevbore17.github.io/hugo-mock-landing-page/about/</guid>
+      <description>&lt;h1 id=&#34;about-us&#34;&gt;About Us&lt;/h1&gt;&#xA;&lt;p&gt;Made with ❤️ by the &lt;em&gt;Hugo Bootstrap Theme&lt;/em&gt; &lt;a href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/graphs/contributors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;team&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Code of Conduct</title>
+      <link>https://mimevbore17.github.io/hugo-mock-landing-page/code-of-conduct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mimevbore17.github.io/hugo-mock-landing-page/code-of-conduct/</guid>
+      <description>&lt;h1 id=&#34;contributor-covenant-code-of-conduct&#34;&gt;Contributor Covenant Code of Conduct&lt;/h1&gt;&#xA;&lt;h2 id=&#34;our-pledge&#34;&gt;Our Pledge&lt;/h2&gt;&#xA;&lt;p&gt;We as members, contributors, and leaders pledge to make participation in our&#xA;community a harassment-free experience for everyone, regardless of age, body&#xA;size, visible or invisible disability, ethnicity, sex characteristics, gender&#xA;identity and expression, level of experience, education, socio-economic status,&#xA;nationality, personal appearance, race, caste, color, religion, or sexual&#xA;identity and orientation.&lt;/p&gt;&#xA;&lt;p&gt;We pledge to act and interact in ways that contribute to an open, welcoming,&#xA;diverse, inclusive, and healthy community.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://mimevbore17.github.io/hugo-mock-landing-page/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mimevbore17.github.io/hugo-mock-landing-page/contact/</guid>
+      <description>&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;&#xA;&lt;p&gt;By &lt;a href=&#34;https://github.com/mimevbore17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Michael Imevbore&lt;/a&gt; on GitHub.&#xA;For inquires reach out to &lt;a href=&#34;mailto:mimev@seas.upenn.edu&#34;&gt;mimev@seas.upenn.edu&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://mimevbore17.github.io/hugo-mock-landing-page/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mimevbore17.github.io/hugo-mock-landing-page/privacy-policy/</guid>
+      <description>&lt;h1 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt;: We do not use cookies and we do not collect any personal data.&lt;/p&gt;&#xA;&lt;h2 id=&#34;website-visitors&#34;&gt;Website visitors&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;No personal information is collected.&lt;/li&gt;&#xA;&lt;li&gt;No information is stored in the browser.&lt;/li&gt;&#xA;&lt;li&gt;No information is shared with, sent to or sold to third-parties.&lt;/li&gt;&#xA;&lt;li&gt;No information is shared with advertising companies.&lt;/li&gt;&#xA;&lt;li&gt;No information is mined and harvested for personal and behavioral trends.&lt;/li&gt;&#xA;&lt;li&gt;No information is monetized.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;information-we-collect-and-what-we-use-it-for&#34;&gt;Information we collect and what we use it for&lt;/h2&gt;&#xA;&lt;p&gt;The server hosting this site can collect the following information:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
