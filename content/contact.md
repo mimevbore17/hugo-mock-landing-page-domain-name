@@ -8,4 +8,5 @@ menu:
 
 # Contact
 
-[Open an issue](https://github.com/filipecarneiro/hugo-bootstrap-theme/issues/new) on GitHub.
+By [Michael Imevbore](https://github.com/mimevbore17/) on GitHub.
+For inquires reach out to mimev@seas.upenn.edu
