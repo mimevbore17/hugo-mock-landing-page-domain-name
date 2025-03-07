@@ -1,48 +1,159 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>SquadSync</title>
-    <link>https://mimevbore17.github.io/hugo-mock-landing-page/</link>
-    <description>Recent content on SquadSync</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>Michael Imevbore</copyright>
-    <lastBuildDate>Sun, 16 Feb 2025 23:58:44 -0500</lastBuildDate>
-    <atom:link href="https://mimevbore17.github.io/hugo-mock-landing-page/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Bootstrap 5.2.0 beta</title>
-      <link>https://mimevbore17.github.io/hugo-mock-landing-page/post/bootstrap-5-2-0-beta/</link>
-      <pubDate>Fri, 13 May 2022 13:00:44 +0100</pubDate>
-      <guid>https://mimevbore17.github.io/hugo-mock-landing-page/post/bootstrap-5-2-0-beta/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;bootstrap-5-2-0-beta.png&#34; alt=&#34;Bootstrap 5 2 0 Beta&#34;&gt;&#xA;{ .img-fluid }&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;It’s the biggest release since v5 itself—&lt;strong&gt;Bootstrap v5.2.0-beta1 is here!&lt;/strong&gt; This release features redesigned docs, CSS variables for all our components, responsive offcanvas, new helpers and utilities, refined buttons and inputs, and lots of improvements under the hood.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Given the size of the update and time since our last release, we’re doing something different and shipping it as a beta first. &lt;a href=&#34;https://blog.getbootstrap.com/2022/05/13/bootstrap-5-2-0-beta/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Keep reading for details&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>https://mimevbore17.github.io/hugo-mock-landing-page/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mimevbore17.github.io/hugo-mock-landing-page/about/</guid>
-      <description>&lt;h1 id=&#34;about-us&#34;&gt;About Us&lt;/h1&gt;&#xA;&lt;p&gt;Made with ❤️ by the &lt;em&gt;Hugo Bootstrap Theme&lt;/em&gt; &lt;a href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/graphs/contributors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;team&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Code of Conduct</title>
-      <link>https://mimevbore17.github.io/hugo-mock-landing-page/code-of-conduct/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mimevbore17.github.io/hugo-mock-landing-page/code-of-conduct/</guid>
-      <description>&lt;h1 id=&#34;contributor-covenant-code-of-conduct&#34;&gt;Contributor Covenant Code of Conduct&lt;/h1&gt;&#xA;&lt;h2 id=&#34;our-pledge&#34;&gt;Our Pledge&lt;/h2&gt;&#xA;&lt;p&gt;We as members, contributors, and leaders pledge to make participation in our&#xA;community a harassment-free experience for everyone, regardless of age, body&#xA;size, visible or invisible disability, ethnicity, sex characteristics, gender&#xA;identity and expression, level of experience, education, socio-economic status,&#xA;nationality, personal appearance, race, caste, color, religion, or sexual&#xA;identity and orientation.&lt;/p&gt;&#xA;&lt;p&gt;We pledge to act and interact in ways that contribute to an open, welcoming,&#xA;diverse, inclusive, and healthy community.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Contact</title>
-      <link>https://mimevbore17.github.io/hugo-mock-landing-page/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mimevbore17.github.io/hugo-mock-landing-page/contact/</guid>
-      <description>&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;&#xA;&lt;p&gt;By &lt;a href=&#34;https://github.com/mimevbore17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Michael Imevbore&lt;/a&gt; on GitHub.&#xA;For inquires reach out to &lt;a href=&#34;mailto:mimev@seas.upenn.edu&#34;&gt;mimev@seas.upenn.edu&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Privacy Policy</title>
-      <link>https://mimevbore17.github.io/hugo-mock-landing-page/privacy-policy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mimevbore17.github.io/hugo-mock-landing-page/privacy-policy/</guid>
-      <description>&lt;h1 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt;: We do not use cookies and we do not collect any personal data.&lt;/p&gt;&#xA;&lt;h2 id=&#34;website-visitors&#34;&gt;Website visitors&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;No personal information is collected.&lt;/li&gt;&#xA;&lt;li&gt;No information is stored in the browser.&lt;/li&gt;&#xA;&lt;li&gt;No information is shared with, sent to or sold to third-parties.&lt;/li&gt;&#xA;&lt;li&gt;No information is shared with advertising companies.&lt;/li&gt;&#xA;&lt;li&gt;No information is mined and harvested for personal and behavioral trends.&lt;/li&gt;&#xA;&lt;li&gt;No information is monetized.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;information-we-collect-and-what-we-use-it-for&#34;&gt;Information we collect and what we use it for&lt;/h2&gt;&#xA;&lt;p&gt;The server hosting this site can collect the following information:&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SquadSync</title><link>https://mimevbore17.github.io/hugo-mock-landing-page-autodeployed/</link><description>Recent content on SquadSync</description><generator>Hugo</generator><language>en</language><copyright>Michael Imevbore</copyright><lastBuildDate>Fri, 07 Mar 2025 01:51:09 +0000</lastBuildDate><atom:link href="https://mimevbore17.github.io/hugo-mock-landing-page-autodeployed/index.xml" rel="self" type="application/rss+xml"/><item><title>Bootstrap 5.2.0 beta</title><link>https://mimevbore17.github.io/hugo-mock-landing-page-autodeployed/post/bootstrap-5-2-0-beta/</link><pubDate>Fri, 13 May 2022 13:00:44 +0100</pubDate><guid>https://mimevbore17.github.io/hugo-mock-landing-page-autodeployed/post/bootstrap-5-2-0-beta/</guid><description>&lt;p>&lt;img src="bootstrap-5-2-0-beta.png" alt="Bootstrap 5 2 0 Beta">
+{ .img-fluid }&lt;/p>
+&lt;blockquote>
+&lt;p>It’s the biggest release since v5 itself—&lt;strong>Bootstrap v5.2.0-beta1 is here!&lt;/strong> This release features redesigned docs, CSS variables for all our components, responsive offcanvas, new helpers and utilities, refined buttons and inputs, and lots of improvements under the hood.&lt;/p>&lt;/blockquote>
+&lt;p>Given the size of the update and time since our last release, we’re doing something different and shipping it as a beta first. &lt;a href="https://blog.getbootstrap.com/2022/05/13/bootstrap-5-2-0-beta/" target="_blank" rel="noopener">Keep reading for details&lt;/a>.&lt;/p></description></item><item><title>About</title><link>https://mimevbore17.github.io/hugo-mock-landing-page-autodeployed/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mimevbore17.github.io/hugo-mock-landing-page-autodeployed/about/</guid><description>&lt;h1 id="about-us">About Us&lt;/h1>
+&lt;p>Made with ❤️ by the &lt;em>Hugo Bootstrap Theme&lt;/em> &lt;a href="https://github.com/filipecarneiro/hugo-bootstrap-theme/graphs/contributors" target="_blank" rel="noopener">team&lt;/a>.&lt;/p></description></item><item><title>Code of Conduct</title><link>https://mimevbore17.github.io/hugo-mock-landing-page-autodeployed/code-of-conduct/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mimevbore17.github.io/hugo-mock-landing-page-autodeployed/code-of-conduct/</guid><description>&lt;h1 id="contributor-covenant-code-of-conduct">Contributor Covenant Code of Conduct&lt;/h1>
+&lt;h2 id="our-pledge">Our Pledge&lt;/h2>
+&lt;p>We as members, contributors, and leaders pledge to make participation in our
+community a harassment-free experience for everyone, regardless of age, body
+size, visible or invisible disability, ethnicity, sex characteristics, gender
+identity and expression, level of experience, education, socio-economic status,
+nationality, personal appearance, race, caste, color, religion, or sexual
+identity and orientation.&lt;/p>
+&lt;p>We pledge to act and interact in ways that contribute to an open, welcoming,
+diverse, inclusive, and healthy community.&lt;/p></description></item><item><title>Contact</title><link>https://mimevbore17.github.io/hugo-mock-landing-page-autodeployed/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mimevbore17.github.io/hugo-mock-landing-page-autodeployed/contact/</guid><description>&lt;h1 id="contact">Contact&lt;/h1>
+&lt;p>By &lt;a href="https://github.com/mimevbore17/" target="_blank" rel="noopener">Michael Imevbore&lt;/a> on GitHub.
+For inquires reach out to &lt;a href="mailto:mimev@seas.upenn.edu">mimev@seas.upenn.edu&lt;/a>&lt;/p></description></item><item><title>Markdown Cheat Sheet Ⓜ️⬇️</title><link>https://mimevbore17.github.io/hugo-mock-landing-page-autodeployed/page/markdown-cheat-sheet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mimevbore17.github.io/hugo-mock-landing-page-autodeployed/page/markdown-cheat-sheet/</guid><description>&lt;h1 id="markdown-cheat-sheet">Markdown Cheat Sheet&lt;/h1>
+&lt;p>Hugo has excellent Markdown support out of the box. By default, Hugo uses the &lt;a href="https://github.com/yuin/goldmark/" target="_blank" rel="noopener">Goldmark Markdown processor&lt;/a> which is fully CommonMark-compliant. See the &lt;a href="https://gohugo.io/getting-started/configuration-markup/" target="_blank" rel="noopener">configuration instructions&lt;/a> to learn more about the extensions you can configure.&lt;/p>
+&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>You can refer to the table below for an overview of basic markdown syntax:&lt;/p>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>TASK&lt;/th>
+ &lt;th>MARKDOWN SYNTAX&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Heading 1&lt;/td>
+ &lt;td>&lt;code>#&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Heading 2&lt;/td>
+ &lt;td>&lt;code>##&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Heading 3&lt;/td>
+ &lt;td>&lt;code>###&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Italics&lt;/td>
+ &lt;td>&lt;code>*italics*&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Bold&lt;/td>
+ &lt;td>&lt;code>**Bold**&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Strike&lt;/td>
+ &lt;td>&lt;code>~~strike~~&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Blockquote&lt;/td>
+ &lt;td>&lt;code>&amp;gt;&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Links&lt;/td>
+ &lt;td>&lt;code>[link name](https://link.com)&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Images&lt;/td>
+ &lt;td>&lt;code>![Image name](image.png)&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Unordered list&lt;/td>
+ &lt;td>&lt;code>* List item&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Ordered list&lt;/td>
+ &lt;td>&lt;code>1. List item&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Inline Code&lt;/td>
+ &lt;td>&lt;!-- raw HTML omitted -->`insert code here`&lt;!-- raw HTML omitted -->&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>{.table .table-sm .table-striped .table-hover}&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;h2 id="headings">Headings&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span># Heading 1
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">## Heading 2
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">### Heading 3
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">#### Heading 4
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">##### Heading 5
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">###### Heading 6
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h1 id="heading-1">Heading 1&lt;/h1>
+&lt;h2 id="heading-2">Heading 2&lt;/h2>
+&lt;h3 id="heading-3">Heading 3&lt;/h3>
+&lt;h4 id="heading-4">Heading 4&lt;/h4>
+&lt;h5 id="heading-5">Heading 5&lt;/h5>
+&lt;h6 id="heading-6">Heading 6&lt;/h6>
+&lt;hr>
+&lt;h2 id="lists">Lists&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">*&lt;/span> Unordered item
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">*&lt;/span> Unordered item
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">*&lt;/span> Unordered item
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">1.&lt;/span> Ordered item
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">2.&lt;/span> Ordered item
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">3.&lt;/span> Ordered item
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">- [ ]&lt;/span> Task item
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">- [x]&lt;/span> Checked Task item
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">- [ ]&lt;/span> Task item
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ul>
+&lt;li>Unordered item&lt;/li>
+&lt;li>Unordered item&lt;/li>
+&lt;li>Unordered item&lt;/li>
+&lt;/ul>
+&lt;ol>
+&lt;li>Ordered item&lt;/li>
+&lt;li>Ordered item&lt;/li>
+&lt;li>Ordered item&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> Task item&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> Checked Task item&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Task item&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="format">Format&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>**Bold**
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="font-style:italic">*Italic*&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">u&lt;/span>&amp;gt;Underline&amp;lt;/&lt;span style="color:#f92672">u&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">sup&lt;/span>&amp;gt;Superscript&amp;lt;/&lt;span style="color:#f92672">sup&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">sub&lt;/span>&amp;gt;Subscript&amp;lt;/&lt;span style="color:#f92672">sub&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">mark&lt;/span>&amp;gt;Highlight&amp;lt;/&lt;span style="color:#f92672">mark&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#e6db74">`Inline code`&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">~~Strikethrough~~&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>[&lt;span style="color:#f92672">Hyperlink&lt;/span>](&lt;span style="color:#a6e22e">http://example.com&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>![&lt;span style="color:#f92672">Image&lt;/span>](&lt;span style="color:#a6e22e">placeholder-50-09f-fff.png&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{ .img-fluid }
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;strong>Bold&lt;/strong>&lt;/p></description></item><item><title>Privacy Policy</title><link>https://mimevbore17.github.io/hugo-mock-landing-page-autodeployed/privacy-policy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mimevbore17.github.io/hugo-mock-landing-page-autodeployed/privacy-policy/</guid><description>&lt;h1 id="privacy-policy">Privacy Policy&lt;/h1>
+&lt;p>&lt;strong>TL;DR&lt;/strong>: We do not use cookies and we do not collect any personal data.&lt;/p>
+&lt;h2 id="website-visitors">Website visitors&lt;/h2>
+&lt;ul>
+&lt;li>No personal information is collected.&lt;/li>
+&lt;li>No information is stored in the browser.&lt;/li>
+&lt;li>No information is shared with, sent to or sold to third-parties.&lt;/li>
+&lt;li>No information is shared with advertising companies.&lt;/li>
+&lt;li>No information is mined and harvested for personal and behavioral trends.&lt;/li>
+&lt;li>No information is monetized.&lt;/li>
+&lt;/ul>
+&lt;h2 id="information-we-collect-and-what-we-use-it-for">Information we collect and what we use it for&lt;/h2>
+&lt;p>The server hosting this site can collect the following information:&lt;/p></description></item></channel></rss>

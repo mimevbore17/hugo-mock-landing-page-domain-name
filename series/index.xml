@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Series on SquadSync</title>
-    <link>https://mimevbore17.github.io/hugo-mock-landing-page/series/</link>
-    <description>Recent content in Series on SquadSync</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>Michael Imevbore</copyright>
-    <atom:link href="https://mimevbore17.github.io/hugo-mock-landing-page/series/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Series on SquadSync</title><link>https://mimevbore17.github.io/hugo-mock-landing-page-autodeployed/series/</link><description>Recent content in Series on SquadSync</description><generator>Hugo</generator><language>en</language><copyright>Michael Imevbore</copyright><atom:link href="https://mimevbore17.github.io/hugo-mock-landing-page-autodeployed/series/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
