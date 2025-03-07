@@ -1,3 +1,3 @@
 User-agent: *
 Disallow: /404.html
-Sitemap: https://mimevbore17.github.io/hugo-mock-landing-page-autodeployed/sitemap.xml
+Sitemap: https://mimevbore17.github.io/hugo-mock-landing-page-domain-name/sitemap.xml
