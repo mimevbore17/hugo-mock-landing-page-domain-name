@@ -17,6 +17,7 @@ This project uses GitHub Actions to automatically build and deploy the Hugo webs
 
 ### Workflow Implementation
 The workflow is defined in .github/workflows/gh-pages-deployment.yaml:
+```
 name: 🏗️ Build and Deploy GitHub Pages
 on:
   push:
@@ -45,6 +46,7 @@ jobs:
           publish_branch: gh-pages
           user_name: "github-actions[bot]"
           user_email: "github-actions[bot]@users.noreply.github.com"
+```
 
 ### Live Site
 The live site is deployed at: https://[YOUR-GITHUB-USERNAME].github.io/hugo-mock-landing-page-autodeployed/
